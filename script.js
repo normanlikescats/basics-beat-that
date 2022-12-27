@@ -1,4 +1,4 @@
-// define options for gameMode
+// define options for game mode
 var gameStateArray = [
   "RollDiceModePlayerOne",
   "ChooseDiceOrderPlayerOne",
