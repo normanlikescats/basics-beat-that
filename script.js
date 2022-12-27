@@ -6,7 +6,7 @@ var gameStateArray = [
   "ChooseDiceOrderPlayerTwo",
 ];
 
-// set gameMode to Player One's Dice Rolls
+// set game mode to Player One's Dice Rolls
 var gameMode = gameStateArray[0];
 
 // define variables for each die roll and the players' final values after ordering
